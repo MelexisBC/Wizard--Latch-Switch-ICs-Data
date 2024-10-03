@@ -209,10 +209,10 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92291LSE-AAA-202;Unipolar switch;5.4 ;4.4;-1100;0.013;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;Inverted;B;;https://melexis.com/MLX92291
 3-wire;Production;MLX92291LSE-AAA-203;Unipolar switch;-3.33 ;-4.33;-1100;0.007;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;N;Direct;B;;https://melexis.com/MLX92291
 3-wire;Production;MLX92291LSE-AAA-204;Unipolar switch;-18.6;-19.1;-1100;0.007;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;N;Direct;B;;https://melexis.com/MLX92291
-3-wire;Production;MLX92271LSE-AAA-001;Latch;0.4;-0.4;0;3;3.3 ;18;-40 to 150;TSOT-3L;Bz;✔;Open drain;S;-;B;;
-3-wire;Production;MLX92271LSE-AAA-014;Latch;2;-2;-1100;3;3.3 ;18;-40 to 150;TSOT-3L;Bz;✔;Open drain;S;-;B;;
-3-wire;Production;MLX92271LSE-AAA-205;Latch;1.5;-1.5;0;3;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;-;B;;
-3-wire;Production;MLX92271LSE-AAA-206;Latch;2.8;-2.8;-2200;3;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;-;B;;
+3-wire;Production;MLX92271LSE-AAA-001;Latch;0.4;-0.4;0;3;3.3 ;18;-40 to 150;TSOT-3L;Bz;✔;Open drain;S;;B;;
+3-wire;Production;MLX92271LSE-AAA-014;Latch;2;-2;-1100;3;3.3 ;18;-40 to 150;TSOT-3L;Bz;✔;Open drain;S;;B;;
+3-wire;Production;MLX92271LSE-AAA-205;Latch;1.5;-1.5;0;3;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;;B;;
+3-wire;Production;MLX92271LSE-AAA-206;Latch;2.8;-2.8;-2200;3;3.3 ;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;;B;;
 3-wire;Production;MLX92291LSE-AAA-207;Switch;2.5;1.7;-2000;0.017;3.3;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;Direct;B;;https://melexis.com/MLX92291
 3-wire;Production;MLX92291LSE-AAA-208;Switch;7.79;7;0;0.012;3.3;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;Direct;B;;https://melexis.com/MLX92291
 3-wire;Production;MLX92271LSE-AAA-015;Latch;-0.4;0.4;0;0.007;3.3;18;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;;B;;
