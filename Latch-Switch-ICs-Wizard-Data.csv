@@ -3,22 +3,22 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX90248ELD-EBA-000;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5 ;3.6;-40 to 85;UTDFN-6;Bz;-;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
 3-wire;Production;MLX90248ESC-EBA-000;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5;3.6;-40 to 85;SC70;Bz;-;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
 3-wire;Production;MLX90248ESC-ECA-000;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5;3.6;-40 to 85;SC70;Bz;-;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
-3-wire;Production;MLX92211LUA-AAA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-ACA-000;Latch;2.8 ;-2.8;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LUA-ADA-000;Latch;13.5;-13.5;-2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-ADA-000;Latch;13.5 ;-13.5;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LUA-AEA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-AEA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92215LUA-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;-;Open Drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LSE-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LSE-ACA-000;Latch;3 ;-3;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;-;Open drain;N;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LUA-AEA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;-;Open drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LSE-AEA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LSE-AFA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;N;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215KLD-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 125;UTQFN-6;Bz;-;Open drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215LST-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;-;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92212LSE-AAA-000;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;-;;;https://melexis.com/MLX92212
+3-wire;Production;MLX92211LUA-AAA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-ACA-000;Latch;2.8 ;-2.8;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LUA-ADA-000;Latch;13.5;-13.5;-2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-ADA-000;Latch;13.5 ;-13.5;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LUA-AEA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-AEA-000;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92215LUA-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;-;Open Drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LSE-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LSE-ACA-000;Latch;3 ;-3;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;-;Open drain;N;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LUA-AEA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;-;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LSE-AEA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LSE-AFA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;N;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215KLD-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 125;UTQFN-6;Bz;-;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215LST-AAA-000;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;-;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92212LSE-AAA-000;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ABA-000;Unipolar switch;12 ;10.5;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ACA-000;Unipolar switch;10.1;8.3;-2000;2.1;2.5;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ADA-000;Unipolar switch;3;1.9;0;2.1;2.5;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
