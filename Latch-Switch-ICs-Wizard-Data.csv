@@ -45,20 +45,20 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 2-wire;Production;MLX92221LUA-AAA-005;Latch;1.8 ;-1.8;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
 2-wire;Production;MLX92221LUA-AAA-006;Latch;0.8 ;-0.8;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
 2-wire;Production;MLX92221LUA-AAA-007;Latch;11.8 ;-11.8;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
-3-wire;Production;MLX92232LSE-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LUA-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;UA;Bz;✔;Open Drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LVA-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7 ;24;-40 to 150;VA; 2 x Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-001;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LUA-AAA-001;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-002;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LUA-AAA-002;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-003;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LUA-AAA-003;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-200;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-201;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-202;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LSE-AAA-203;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
-3-wire;Production;MLX92232LUA-AAA-200;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];[0 ÷ -2000];3;2.7;24;-40 to 150;UA;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LUA-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open Drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LVA-AAA-000;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7 ;24;-40 to 150;VA; 2 x Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-001;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LUA-AAA-001;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-002;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LUA-AAA-002;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-003;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LUA-AAA-003;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-200;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-201;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-202;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LSE-AAA-203;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
+3-wire;Production;MLX92232LUA-AAA-200;Programmable, switch, latch ;[-80 ÷ 80];[-80 ÷ 80];0 to 2000;3;2.7;24;-40 to 150;UA;Bx;✔;Open drain;N | S;Direct | Inverted;;;https://melexis.com/MLX92232
 3-wire;Production;MLX92211LSE-BAA-003;Latch;0.5 ;-0.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LSE-BAA-006;Latch;1.5 ;-1.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LSE-BAA-008;Latch;7 ;-7;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
