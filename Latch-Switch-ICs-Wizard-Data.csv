@@ -113,10 +113,10 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92231LSE-AAA-204;unipolar switch;6.5 ;5.6;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;Inverted;;;https://melexis.com/MLX92231
 3-wire;Engineering;MLX92231LSE-AAA-207;unipolar switch;-9.7;-8.7;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;N;Inverted;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-208;unipolar switch;-8.9;-7.9;-1300;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;N;Inverted;;;https://melexis.com/MLX92231
-2-wire;Production;MLX92242LUA-AAA-000;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];[0 ÷ -2000];3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
-2-wire;Production;MLX92242LSE-AAA-000;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];[0 ÷ -2000];3 | 14;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
-2-wire;Production;MLX92242LUA-AAA-100;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];[0 ÷ -2000];3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92242
-2-wire;Production;MLX92242LSE-AAA-200;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];[0 ÷ -2000];3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Current source;N | S;Direct | Inverted;A;-;https://melexis.com/MLX92242
+2-wire;Production;MLX92242LUA-AAA-000;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];0 to 2000;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
+2-wire;Production;MLX92242LSE-AAA-000;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];0 to 2000;3 | 14;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
+2-wire;Production;MLX92242LUA-AAA-100;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];0 to 2000;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92242
+2-wire;Production;MLX92242LSE-AAA-200;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];0 to 2000;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Current source;N | S;Direct | Inverted;A;-;https://melexis.com/MLX92242
 2-wire;Production;MLX92242LUA-AAA-300;Programmable, switch, latch ;[-100 ÷ 100];[-100 ÷ 100];0 to 2000;3 | 14;2.7 ;24;-40 to 150;UA;Bx;✔;Current source;N | S;Direct | Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92242
 2-wire;Engineering;MLX92221LSE-AAA-009;Latch;1.75 ;-1.75;0;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;;A;;https://melexis.com/MLX92221
 2-wire;Production;MLX92221LSE-BAA-008;Latch;4 ;-4;0;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;;A;;https://melexis.com/MLX92221
