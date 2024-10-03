@@ -229,11 +229,11 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 4-wire;Production;MLX92351LSE-BAD-001;Dual Latch;0.5;-0.5;0;1.9;2.7;60;-40 to 150;TSOT-5L;Bx, By;✔;2x Open drain;S;;A;;https://www.melexis.com/MLX92351
 4-wire;Production;MLX92253LSE-AAA-000;Dual Latch;1.5;-1.5;0;5;2.7;5.5;-40 to 150;TSOT-5L;Bx, Bz;✔;2x Open drain;S;;;;https://www.melexis.com/MLX92253
 4-wire;Engineering;MLX92253LVA-AAA-000;Dual Latch;1.5;-1.5;0;5;2.7;5.5;-40 to 150;VA;Bx, Bz;✔;2x Open drain;S;;;;https://www.melexis.com/MLX92253
-3-4-6 wire;Production;MLX92362LSE-ABA-000;Programmable, switch, latch, Omnipolar;[-90 ÷ 90];[-90 ÷ 90];[0 ÷ -2200];[0.18 ÷ 0.347];4.5;28;-40 to 150;TSOT-6L;Bx, By, Bz;✔;Isolated ouptut;N | S;Direct;;μPower isolated switch;https://www.melexis.com/MLX92362
+3-4-6 wire;Production;MLX92362LSE-ABA-000;Programmable, switch, latch, Omnipolar;[-90 ÷ 90];[-90 ÷ 90];0 to 2000;[0.18 ÷ 0.347];4.5;28;-40 to 150;TSOT-6L;Bx, By, Bz;✔;Isolated ouptut;N | S;Direct;;μPower isolated switch;https://www.melexis.com/MLX92362
 3-4-6 wire;Production;MLX92361LSE-ABC-001;Omnipolar switch;±3;±2;0;0.18;4.5 ;28;-40 to 150;TSOT-6L;Bx;✔;Isolated switch;N & S;Direct;;μPower isolated switch;https://www.melexis.com/MLX92361
 3-4-6 wire;Production;MLX92361LSE-ABC-002;Unipolar switch;-1.5;-2.5;0;0.18;4.5;28;-40 to 150;TSOT-6L;Bx;✔;Isolated switch;N;Inverted;;μPower isolated switch;https://www.melexis.com/MLX92361
-2-wire;Engineering;MLX92442LDC-AAA-000;Unipolar switch;-;-;[0 ÷ -2000];3 | 14;3.5;18;-40 to 150;SOIC-8;z;✔;Current source;;Direct | Inverted;;;https://www.melexis.com/MLX92442
-2-wire;Engineering;MLX92442LVK-AAA-100;Unipolar switch;-;-;[0 ÷ -2000];3 | 14;3.5;18;-40 to 150;VK;z;✔;Current source;;Direct | Inverted;;PCB-less (Integrated Capacitor);https://www.melexis.com/MLX92442
+2-wire;Engineering;MLX92442LDC-AAA-000;Unipolar switch;-;-;0 to 2000;3 | 14;3.5;18;-40 to 150;SOIC-8;z;✔;Current source;;Direct | Inverted;;;https://www.melexis.com/MLX92442
+2-wire;Engineering;MLX92442LVK-AAA-100;Unipolar switch;-;-;0 to 2000;3 | 14;3.5;18;-40 to 150;VK;z;✔;Current source;;Direct | Inverted;;PCB-less (Integrated Capacitor);https://www.melexis.com/MLX92442
 2-wire;Engineering ;MLX92442LVK-AAA-000;Unipolar switch;-;-;0 to 2000;3 | 14;3.5;18;-40 to 150;VK;z;✔;Current source;;Direct | Inverted;;;https://www.melexis.com/MLX92442
 3-wire;Production;US1881ESE-AAA-000;Latch;5;-5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US1881
 3-wire;Production;US1881EUA-AAA-000;Latch;5;-5;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1881
