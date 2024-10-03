@@ -221,7 +221,7 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92271LSE-AAA-209;Latch;8.75;-8.75;-1100;3;3.3;18;-40 to 150;TSOT-3L;Bx;✔;Open drain;S;-;B;;
 4-wire;Production;MLX92352LVA-BAA-000;Programmable, switch, latch, Omnipolar;[-40 ÷ 40];[-40 ÷ 40];[0 ÷ -2200];1.9;2.7;60;-40 to 150;VA;Bx, By, Bz;✔;2x Open drain;N | S;Direct | Inverted;A;PCB-less. Quadrature outputs. Speed , Pulse or Direction.;https://www.melexis.com/MLX92352
 4-wire;Production;MLX92352LSE-BAA-000;Programmable, switch, latch, Omnipolar;[-40 ÷ 40];[-40 ÷ 40];[0 ÷ -2200];1.9;2.7 ;60;-40 to 150;TSOT-5L;Bx, By, Bz;✔;2x Open drain;N | S;Direct | Inverted;A;PCB-less. Quadrature outputs. Speed , Pulse or Direction.;https://www.melexis.com/MLX92352
-4-wire;Production;MLX92351LSE-BAB-002;Dual Latch;1.7;-1.7;0;1.9;2.7;60;-40 to 150;TSOT-5L;Bx, Bz;✔;2x Open drain;N;-;A;-;https://www.melexis.com/MLX92351
+4-wire;Production;MLX92351LSE-BAB-002;Dual Latch;1.7;-1.7;0;1.9;2.7;60;-40 to 150;TSOT-5L;Bx, Bz;✔;2x Open drain;N;-;A;;https://www.melexis.com/MLX92351
 4-wire;Production;MLX92351LSE-BAB-003;Dual Latch;7.5;-7.5;0;1.9;2.7;60;-40 to 150;TSOT-5L;Bx, Bz;✔;2x Open drain;-;-;A;Pulse & Direction outputs;https://www.melexis.com/MLX92351
 4-wire;Engineering;MLX92351LVA-BAB-004;Dual Latch;7.5;-7.5;0;1.9;2.7;60;-40 to 150;VA;Bx, Bz;✔;2x Open drain;-;-;A;Pulse & Direction outputs;https://www.melexis.com/MLX92351
 4-wire;Production;MLX92351LSE-BAB-005;Dual Latch;0.5;-0.5;0;1.9;2.7;60;-40 to 150;TSOT-5L;Bx, Bz;✔;2x Open drain;S;-;A;-;https://www.melexis.com/MLX92351
