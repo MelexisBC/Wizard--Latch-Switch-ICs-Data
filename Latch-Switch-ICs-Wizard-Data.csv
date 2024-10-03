@@ -163,27 +163,27 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 2-wire;Production;MLX92241LSE-BAA-034;Unipolar switch;5.5 ;3.5;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Inverted;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LSE-BAA-035;Unipolar switch;25 ;24;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LSE-BAA-036;Unipolar switch;8.7;.3;0;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-101;Unipolar switch;17 ;15.4;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Engineering;MLX92241LUA-BAA-102;Unipolar switch;3.2 ;2.8;-2000;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-103;Unipolar switch;6 ;4;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-104;Unipolar switch;8 ;7;-700;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-106;Unipolar switch;4 ;2.7;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-107;Unipolar switch;4 ;3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-108;Unipolar switch;7.9 ;5.2;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Engineering;MLX92241LUA-BAA-109;Unipolar switch;16 ;12;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-110;Unipolar switch;7.9 ;5.3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-111;Unipolar switch;3.8 ;2.6;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-112;Unipolar switch;-3.8 ;-2.6;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-113;Unipolar switch;7.9 ;5.3;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-114;Unipolar switch;7.9 ;5.3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Engineering;MLX92241LUA-BAA-115;Unipolar switch;-8 ;-5;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;N;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;engineering;MLX92241LUA-BAA-116;Unipolar switch;20 ;18;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-118;Unipolar switch;17.5;5.5;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-117;Unipolar switch;25;24;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-119;Unipolar switch;16;14;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-120;Unipolar switch;19;17;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-121;Unipolar switch;16;14;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-122;Unipolar switch;38;37;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less: Integrated Capacitor;https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-101;Unipolar switch;17 ;15.4;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Engineering;MLX92241LUA-BAA-102;Unipolar switch;3.2 ;2.8;-2000;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-103;Unipolar switch;6 ;4;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-104;Unipolar switch;8 ;7;-700;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-106;Unipolar switch;4 ;2.7;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-107;Unipolar switch;4 ;3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-108;Unipolar switch;7.9 ;5.2;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Engineering;MLX92241LUA-BAA-109;Unipolar switch;16 ;12;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-110;Unipolar switch;7.9 ;5.3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-111;Unipolar switch;3.8 ;2.6;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-112;Unipolar switch;-3.8 ;-2.6;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-113;Unipolar switch;7.9 ;5.3;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-114;Unipolar switch;7.9 ;5.3;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Engineering;MLX92241LUA-BAA-115;Unipolar switch;-8 ;-5;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;N;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;engineering;MLX92241LUA-BAA-116;Unipolar switch;20 ;18;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-118;Unipolar switch;17.5;5.5;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-117;Unipolar switch;25;24;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-119;Unipolar switch;16;14;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-120;Unipolar switch;19;17;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-121;Unipolar switch;16;14;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-122;Unipolar switch;38;37;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
 4-wire;Production;MLX92251LSE-AAA-000;Latch;7.5 ;-7.5;0;4.5;2.7 ;24;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;-;-;Speed & Direction outputs;https://melexis.com/MLX92251
 4-wire;Production;MLX92251LSE-ABA-000;Latch;2.5 ;-2.5;-1100;4.5;2.7 ;24;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;-;-;Speed & Direction outputs;https://melexis.com/MLX92251
 4-wire;Production;MLX92255LSE-AAA-001;Latch;3 ;-3;-1800;5;2.7 ;5.5;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;-;-;Speed & Speed outputs;https://melexis.com/MLX92255
