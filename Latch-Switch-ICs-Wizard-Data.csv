@@ -24,20 +24,20 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92212LSE-ADA-000;Unipolar switch;3;1.9;0;2.1;2.5;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92214LSE-AAA-000;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92214
 3-wire;Production;MLX92214KSE-AAA-000;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 125;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92214
-3-4-wire;Production;MLX92213ELD-AAA-000;Latch;2 ;-2;0;0.036;1.6 ;3.6;-40 to 85;UTDFN-6;Bz;-;Push pull;S;;;;https://melexis.com/MLX92213
-3-wire;Production;MLX92216ELQ-AAC-001;Unipolar switch;4;2.5;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ESE-AAC-001;Unipolar switch;4;2.5;0;0.0012;1.6;5.5;-40 to 85;TSOT-3L;Bz;-;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAC-002;Unipolar switch;4.9;3.2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAC-003;Unipolar switch;2.3;1.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAB-001;Unipolar switch;3.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Open Drain;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAC-101;Omnipolar switch;±2.8;±1.8;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAB-101;Omnipolar switch;±3;±2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Open Drain;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92216ELQ-AAC-201;Latch;1.5;-1.5;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;S;;;Speed output;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92217ELQ-AAC-001;Unipolar switch;-2.7;-1.7;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;N;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92217ELQ-AAC-002;Unipolar switch;3.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92217ELQ-AAC-101;Omnipolar switch;±3.6;±2.2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92217ELQ-AAC-102;Omnipolar switch;±3.1;±2.1;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
-3-wire;Engineering;MLX92217ELQ-AAB-201;Latch;-2.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;-;Open Drain;N;;;;https://melexis.com/MLX92216-MLX92217
+3-4-wire;Production;MLX92213ELD-AAA-000;Latch;2 ;-2;0;0.036;1.6 ;3.6;-40 to 85;UTDFN-6;Bz;;Push pull;S;;;;https://melexis.com/MLX92213
+3-wire;Production;MLX92216ELQ-AAC-001;Unipolar switch;4;2.5;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ESE-AAC-001;Unipolar switch;4;2.5;0;0.0012;1.6;5.5;-40 to 85;TSOT-3L;Bz;;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAC-002;Unipolar switch;4.9;3.2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAC-003;Unipolar switch;2.3;1.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAB-001;Unipolar switch;3.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Open Drain;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAC-101;Omnipolar switch;±2.8;±1.8;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAB-101;Omnipolar switch;±3;±2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Open Drain;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92216ELQ-AAC-201;Latch;1.5;-1.5;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;S;;;Speed output;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92217ELQ-AAC-001;Unipolar switch;-2.7;-1.7;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;N;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92217ELQ-AAC-002;Unipolar switch;3.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92217ELQ-AAC-101;Omnipolar switch;±3.6;±2.2;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92217ELQ-AAC-102;Omnipolar switch;±3.1;±2.1;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Push pull;N & S;Direct;;;https://melexis.com/MLX92216-MLX92217
+3-wire;Engineering;MLX92217ELQ-AAB-201;Latch;-2.3;2.3;0;0.0012;1.6;5.5;-40 to 85;UTDFN-4;Bz;;Open Drain;N;;;;https://melexis.com/MLX92216-MLX92217
 2-wire;Production;MLX92221LSE-AAA-001;Latch;11.8 ;-11.8;0;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
 2-wire;Production;MLX92221LSE-AAA-002;Latch;6 ;-6;-2000;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
 2-wire;Production;MLX92221LSE-AAA-003;Latch;1.8 ;-1.8;0;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;;;;https://melexis.com/MLX92221
