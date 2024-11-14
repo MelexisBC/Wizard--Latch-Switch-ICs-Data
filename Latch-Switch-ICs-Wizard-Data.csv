@@ -116,7 +116,7 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92235RSE-AAC-001;;4;2.5;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAC-003;;2.3;1.3;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAC-101;;± 2.8;± 1.8;;;;;;;;;;;;;;
-3-wire;Production;MLX92235RSE-AAB-101;Omnipolar switch;±3;±2;0;0.0012;1.6;5.5;-40 to 105;UTDFN-4;Bz;;Open Drain;N & S;Direct;;;
+3-wire;Production;MLX92235RSE-AAB-101;Omnipolar switch;±3;±2;0;0.0012;1.6;5.5;-40 to 105;;Bz;;Open Drain;N & S;Direct;;;
 2-wire;Production;MLX92242LUA-AAA-000;Programmable, switch, latch ;-100 to 100;-100 to 100;0 to 2000;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
 2-wire;Production;MLX92242LSE-AAA-000;Programmable, switch, latch ;-100 to 100;-100 to 100;0 to 2000;3 | 14;2.7;24;-40 to 150;TSOT-3L;Bz;✔;Current source;N | S;Direct | Inverted;A;;https://melexis.com/MLX92242
 2-wire;Production;MLX92242LUA-AAA-100;Programmable, switch, latch ;-100 to 100;-100 to 100;0 to 2000;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;N | S;Direct | Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92242
