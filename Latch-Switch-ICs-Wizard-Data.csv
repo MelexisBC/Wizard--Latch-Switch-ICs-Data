@@ -113,7 +113,7 @@ Type;Status;Part number;Function;Bop;Brp;TC;Supply current;Supply voltage min;Su
 3-wire;Production;MLX92231LSE-AAA-204;unipolar switch;6.5 ;5.6;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;Inverted;;;https://melexis.com/MLX92231
 3-wire;Engineering;MLX92231LSE-AAA-207;unipolar switch;-9.7;-8.7;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;N;Inverted;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-208;unipolar switch;-8.9;-7.9;-1300;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;N;Inverted;;;https://melexis.com/MLX92231
-3-wire;Production;MLX92235RSE-AAC-001;;;;;;;;;;;;;;;;;
+3-wire;Production;MLX92235RSE-AAC-001;;4;;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAC-003;;;;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAC-101;;;;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAB-101;;;;;;;;;;;;;;;;;
