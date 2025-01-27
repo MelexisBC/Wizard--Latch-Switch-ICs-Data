@@ -249,7 +249,7 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;US2881ESE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us2881-datasheet-melexis.pdf;Latch;3;-3;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US2881
 3-wire;Production;US2881EUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us2881-datasheet-melexis.pdf;Latch;3;-3;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US2881
 3-wire;Production;US2881LSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us2881-datasheet-melexis.pdf;Latch;3;-3;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US2881
-3-wire;Production;US2881LUA-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US2881
+3-wire;Production;US2881LUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us2881-datasheet-melexis.pdf;Latch;3;-3;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US2881
 3-wire;Production;US2882ESE-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US2882
 3-wire;Production;US2882EUA-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US2882
 3-wire;Production;US2882KSE-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US2882
