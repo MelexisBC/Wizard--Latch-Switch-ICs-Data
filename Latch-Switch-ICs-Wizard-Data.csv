@@ -185,9 +185,9 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 2-wire;Production;MLX92241LUA-BAA-118;;Unipolar switch;17.5;5.5;-1100;3 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
 2-wire;Production;MLX92241LUA-BAA-117;;Unipolar switch;25;24;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
 2-wire;Production;MLX92241LUA-BAA-119;;Unipolar switch;16;14;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-120;;Unipolar switch;19;17;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-121;;Unipolar switch;16;14;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-122;;Unipolar switch;38;37;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-120;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;19;17;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-121;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;16;14;-1100;3 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-122;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;38;37;-1100;6 | 14;2.7;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
 4-wire;Production;MLX92251LSE-AAA-000;;Latch;7.5 ;-7.5;0;4.5;2.7 ;24;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;;;Speed & Direction outputs;https://melexis.com/MLX92251
 4-wire;Production;MLX92251LSE-ABA-000;;Latch;2.5 ;-2.5;-1100;4.5;2.7 ;24;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;;;Speed & Direction outputs;https://melexis.com/MLX92251
 4-wire;Production;MLX92255LSE-AAA-001;;Latch;3 ;-3;-1800;5;2.7 ;5.5;-40 to 150;TSOT-5L;2 x Bz;✔;2x Open Drain;S;;;Speed & Speed outputs;https://melexis.com/MLX92255
