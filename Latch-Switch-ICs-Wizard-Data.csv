@@ -279,9 +279,9 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;US5781LUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5781-datasheet-melexis.pdf;Unipolar switch;12;7.5;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5781
 3-wire;Production;US5782ESE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5782-datasheet-melexis.pdf;Unipolar switch;12;7.5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5782
 3-wire;Production;US5782LSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5782-datasheet-melexis.pdf;Unipolar switch;12;7.5;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5782
-3-wire;Production;US5881EUA-AAA-000;;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
-3-wire;Production;US5881LUA-AAA-000;;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
-3-wire;Production;US5881KUA-AAA-000;;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 125;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
+3-wire;Production;US5881EUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
+3-wire;Production;US5881LUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
+3-wire;Production;US5881KUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf;Unipolar switch;25;20;0;2.6;3.5;24;-40 to 125;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5881
 3-wire;Production;US5881ESE-AAA-000;;Unipolar switch;-25;-20;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;Direct;;;https://melexis.com/US5881
 3-wire;Production;US5881LSE-AAA-000;;Unipolar switch;-25;-20;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;Direct;;;https://melexis.com/US5881
 4-wire;Production;MLX90224EVA-AAA-000;;Latch;2.5;-2.5;0;7.5;4.5;24;-40 to 85;VA;2 x Bz;;Open drain;S;;;2 x Speed outputs;https://www.melexis.com/MLX90224
