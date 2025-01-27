@@ -99,9 +99,9 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;MLX92231LUA-AAA-034;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;5.5 ;3.5;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
 3-wire;Engineering;MLX92231LUA-AAA-035;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;28.2 ;26;0;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;Inverted;;;https://melexis.com/MLX92231
 3-wire;Engineering;MLX92231LSE-AAA-036;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;26 ;24;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
-3-wire;Production;MLX92231LSE-AAA-038;;unipolar switch;27 ;26;-1100;3;2.7 ;25;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
-3-wire;Production;MLX92231LUA-AAA-039;;unipolar switch;13.5 ;8.5;0;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
-3-wire;Production;MLX92231LSE-AAA-040;;unipolar switch;66 ;50;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
+3-wire;Production;MLX92231LSE-AAA-038;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;27 ;26;-1100;3;2.7 ;25;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
+3-wire;Production;MLX92231LUA-AAA-039;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;13.5 ;8.5;0;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
+3-wire;Production;MLX92231LSE-AAA-040;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;66 ;50;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-041;;unipolar switch;10.2 ;8.4;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-042;;unipolar switch;51.2 ;41;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-045;;unipolar switch;20 ;15;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
