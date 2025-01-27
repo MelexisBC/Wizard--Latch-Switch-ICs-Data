@@ -243,8 +243,8 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;US1881EUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us1881-datasheet-melexis.pdf;Latch;5;-5;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1881
 3-wire;Production;US1881KSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us1881-datasheet-melexis.pdf;Latch;5;-5;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US1881
 3-wire;Production;US1881KUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us1881-datasheet-melexis.pdf;Latch;5;-5;0;2.6;3.5;24;-40 to 125;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1881
-3-wire;Production;US1881LSE-AAA-000;;Latch;5;-5;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US1881
-3-wire;Production;US1881LUA-AAA-000;;Latch;5;-5;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1881
+3-wire;Production;US1881LSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us1881-datasheet-melexis.pdf;Latch;5;-5;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US1881
+3-wire;Production;US1881LUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us1881-datasheet-melexis.pdf;Latch;5;-5;0;2.6;3.5;24;-40 to 150;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1881
 3-wire;Production;US1883LUA-AAA-000;;Latch;14 ;-14;0;2.6;3.5 ;24;-40 to 150;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US1883
 3-wire;Production;US2881ESE-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;;;;https://melexis.com/US2881
 3-wire;Production;US2881EUA-AAA-000;;Latch;3;-3;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;;;;https://melexis.com/US2881
