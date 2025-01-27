@@ -1,5 +1,5 @@
 Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply voltage min;Supply voltage max;Ambient temperature;Package;Sensitive axis;AEC-Q100;Output type;Active pole;Output polarity;ASIL;Specific features;Product page
-3-wire;Production;MLX90248ESE-EBA-000;;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5 ;3.6;-40 to 85;TSOT-3L;Bz;;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
+3-wire;Production;MLX90248ESE-EBA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx90248-datasheet-melexis.pdf;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5 ;3.6;-40 to 85;TSOT-3L;Bz;;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
 3-wire;Production;MLX90248ELD-EBA-000;;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5 ;3.6;-40 to 85;UTDFN-6;Bz;;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
 3-wire;Production;MLX90248ESC-EBA-000;;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5;3.6;-40 to 85;SC70;Bz;;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
 3-wire;Production;MLX90248ESC-ECA-000;;Omnipolar switch;±3.5;±2.5;0;0.0035;1.5;3.6;-40 to 85;SC70;Bz;;Open drain;N & S;Direct;;;https://melexis.com/MLX90248
