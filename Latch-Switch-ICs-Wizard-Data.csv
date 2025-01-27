@@ -271,8 +271,8 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;US5681KSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5681-datasheet-melexis.pdf;Unipolar switch;5.5;3.5;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US568x
 3-wire;Production;US5682ESE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5682-datasheet-melexis.pdf;Unipolar switch;5.5;3.5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;S;Inverted;;;https://melexis.com/US568x
 3-wire;Production;US5682KSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5682-datasheet-melexis.pdf;Unipolar switch;5.5;3.5;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;S;Inverted;;;https://melexis.com/US568x
-3-wire;Production;US5683ESE-AAA-000;;Unipolar switch;-5.5;-3.5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;Inverted;;;https://melexis.com/US568x
-3-wire;Production;US5683KSE-AAA-000;;Unipolar switch;-5.5;-3.5;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;N;Inverted;;;https://melexis.com/US568x
+3-wire;Production;US5683ESE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5683-datasheet-melexis.pdf;Unipolar switch;-5.5;-3.5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;Inverted;;;https://melexis.com/US568x
+3-wire;Production;US5683KSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/us5683-datasheet-melexis.pdf;Unipolar switch;-5.5;-3.5;0;2.6;3.5;24;-40 to 125;TSOT-3L;Bz;✔;Open drain;N;Inverted;;;https://melexis.com/US568x
 3-wire;Production;US5781ESE-AAA-000;;Unipolar switch;-12;-7.5;0;2.6;3.5;24;-40 to 85;TSOT-3L;Bz;✔;Open drain;N;Direct;;;https://melexis.com/US5781
 3-wire;Production;US5781EUA-AAA-000;;Unipolar switch;12;7.5;0;2.6;3.5;24;-40 to 85;UA;Bz;✔;Open drain;S;Direct;;;https://melexis.com/US5781
 3-wire;Production;US5781LSE-AAA-000;;Unipolar switch;-12;-7.5;0;2.6;3.5;24;-40 to 150;TSOT-3L;Bz;✔;Open drain;N;Direct;;;https://melexis.com/US5781
