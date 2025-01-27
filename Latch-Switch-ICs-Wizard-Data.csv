@@ -67,8 +67,8 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;MLX92211LSE-BAA-044;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-baa-datasheet-melexis.pdf;Latch;-0.5 ;0.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N;;;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LUA-BAA-050;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-baa-datasheet-melexis.pdf;Latch;13.5;-13.5;-2000;3;2.7;24;-40 to 150;UA;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LSE-BAA-202;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-baa-datasheet-melexis.pdf;Latch;1.5 ;-1.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-BAA-203;;Latch;3 ;-3;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;;;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-BAA-205;;Latch;8.8 ;-8.8;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-BAA-203;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-baa-datasheet-melexis.pdf;Latch;3 ;-3;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;;;;https://melexis.com/MLX92211
+3-wire;Production;MLX92211LSE-BAA-205;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-baa-datasheet-melexis.pdf;Latch;8.8 ;-8.8;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;S;;;;https://melexis.com/MLX92211
 3-wire;Production;MLX92231LSE-AAA-003;;unipolar switch;33 ;26.4;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-004;;unipolar switch;-5.5 ;-3.7;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N;Direct;;;https://melexis.com/MLX92231
 3-wire;Production;MLX92231LSE-AAA-005;;unipolar switch;-26 ;-20;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;N;Direct;;;https://melexis.com/MLX92231
