@@ -160,12 +160,12 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 2-wire;Production;MLX92241LUA-BAA-026;;Unipolar switch;8.5 ;7.5;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LSE-BAA-027;;Unipolar switch;10 ;4;-2000;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LSE-BAA-029;;Unipolar switch;9.2 ;7.2;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Engineering;MLX92241LUA-BAA-030;;Unipolar switch;8 ;5;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Engineering;MLX92241LUA-BAA-031;;Unipolar switch;4 ;2.7;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LSE-BAA-032;;Unipolar switch;5.6 ;3.6;-1100;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LUA-BAA-033;;Unipolar switch;20 ;18;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;current source;S;Direct;A;;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LSE-BAA-034;;Unipolar switch;5.5 ;3.5;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Inverted;A;;https://melexis.com/MLX92241
-2-wire;Production;MLX92241LSE-BAA-035;;Unipolar switch;25 ;24;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
+2-wire;Engineering;MLX92241LUA-BAA-030;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;8 ;5;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
+2-wire;Engineering;MLX92241LUA-BAA-031;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;4 ;2.7;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
+2-wire;Production;MLX92241LSE-BAA-032;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;5.6 ;3.6;-1100;3 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
+2-wire;Production;MLX92241LUA-BAA-033;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;20 ;18;-1100;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;current source;S;Direct;A;;https://melexis.com/MLX92241
+2-wire;Production;MLX92241LSE-BAA-034;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;5.5 ;3.5;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Inverted;A;;https://melexis.com/MLX92241
+2-wire;Production;MLX92241LSE-BAA-035;https://media.melexis.com/-/media/files/documents/datasheets/mlx92241-datasheet-melexis.pdf;Unipolar switch;25 ;24;-1100;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LSE-BAA-036;;Unipolar switch;8.7;.3;0;6 | 14;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Current source;S;Direct;A;;https://melexis.com/MLX92241
 2-wire;Production;MLX92241LUA-BAA-101;;Unipolar switch;17 ;15.4;0;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
 2-wire;Engineering;MLX92241LUA-BAA-102;;Unipolar switch;3.2 ;2.8;-2000;6 | 14;2.7 ;24;-40 to 150;UA;Bz;✔;Current source;S;Inverted;A;PCB-less (Integrated Capacitor);https://melexis.com/MLX92241
