@@ -16,7 +16,7 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;MLX92215LUA-AEA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92215LSE-AEA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92215LSE-AFA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;;Open drain;N;;;;https://melexis.com/MLX92215
-3-wire;Production;MLX92215KLD-AAA-000;;Latch;3;-3;-1100;3;2.7;24;-40 to 125;UTQFN-6;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
+3-wire;Production;MLX92215KLD-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 125;UTQFN-6;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92215LST-AAA-000;;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92212LSE-AAA-000;;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ABA-000;;Unipolar switch;12 ;10.5;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
