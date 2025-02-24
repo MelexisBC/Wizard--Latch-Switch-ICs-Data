@@ -14,6 +14,9 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 ;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
 3-wire;Production;MLX92215LUA-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 150;UA;Bz;;Open Drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92215LSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3;-3;-1100;3;2.7;24;-40 to 150;TSOT-3L;Bz;;Open drain;S;;;;https://melexis.com/MLX92215
 3-wire;Production;MLX92215LSE-ACA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92215-datasheet-melexis.pdf;Latch;3 ;-3;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;;Open drain;N;;;;https://melexis.com/MLX92215
