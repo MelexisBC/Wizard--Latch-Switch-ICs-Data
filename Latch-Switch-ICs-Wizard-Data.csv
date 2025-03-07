@@ -115,6 +115,8 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;MLX92231LSE-AAA-208;https://media.melexis.com/-/media/files/documents/datasheets/mlx92231-datasheet-melexis.pdf;unipolar switch;-8.9;-7.9;-1300;3;2.7;24;-40 to 150;TSOT-3L;Bx;✔;Open Drain;N;Inverted;;;https://melexis.com/MLX92231
 ;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
 3-wire;Production;MLX92235RSE-AAC-001;https://media.melexis.com/-/media/files/documents/datasheets/mlx92235-datasheet-melexis.pdf;unipolar switch;4;2.5;0;0.0012;1.6;3.6;-40 to 105;TSOT-3L;Bz;✔;Push pull;S;Direct;;;https://melexis.com/MLX92235
 3-wire;Production;MLX92235RSE-AAC-003;https://media.melexis.com/-/media/files/documents/datasheets/mlx92235-datasheet-melexis.pdf;unipolar switch;2.3;1.3;0;0.0012;1.6;3.6;-40 to 105;TSOT-3L;Bz;✔;Push pull;S;Direct;;;https://melexis.com/MLX92235
 3-wire;Production;MLX92235RSE-AAC-101;https://media.melexis.com/-/media/files/documents/datasheets/mlx92235-datasheet-melexis.pdf;Omnipolar switch;± 2.8;± 1.8;0;0.0012;1.6;3.6;-40 to 105;TSOT-3L;Bz;✔;Push pull;N & S;Direct;;;https://melexis.com/MLX92235
