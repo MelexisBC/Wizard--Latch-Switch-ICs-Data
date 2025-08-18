@@ -10,12 +10,12 @@ Type;Status;Part number;Datasheet;Function;Bop;Brp;TC;Supply current;Supply volt
 3-wire;Production;MLX92211LSE-ADA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;13.5 ;-13.5;-2000;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;A;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LUA-AEA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;UA;Bz;✔;Open Drain;S;;A;;https://melexis.com/MLX92211
 3-wire;Production;MLX92211LSE-AEA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;3 ;-3;-1100;3;2.7 ;24;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;A;;https://melexis.com/MLX92211
-3-wire;Production;MLX92211LSE-AFA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;1.5;-1.5;0;3;2.7 ;24;-40 to 150;;;;;;;;;
-3-wire;Production;MLX92211LUA-AFA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;1.5;-1.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;;;;;;;;
-3-wire;Production;MLX92211LSE-AGA-200;;;;;;;;;;;;;;;;;;
-3-wire;Production;MLX92211LUA-AGA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;;;;3;2.7 ;24;-40 to 150;TSOT-3L;;;;;;;;
-3-wire;Production;MLX92211LSE-AHA-200;;;;;;;;;;;;;;;;;;
-3-wire;Production;MLX92211LUA-AHA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;;;;3;2.7 ;24;-40 to 150;TSOT-3L;;;;;;;;
+3-wire;Production;MLX92211LSE-AFA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;1.5;-1.5;0;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;;;;;;;
+3-wire;Production;MLX92211LUA-AFA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;1.5;-1.5;0;3;2.7 ;24;-40 to 150;UA;Bx;;;;;;;
+3-wire;Production;MLX92211LSE-AGA-200;;;;;;;;;;;Bx;;;;;;;
+3-wire;Production;MLX92211LUA-AGA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;;;;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;;;;;;;
+3-wire;Production;MLX92211LSE-AHA-200;;;;;;;;;;;Bx;;;;;;;
+3-wire;Production;MLX92211LUA-AHA-200;https://media.melexis.com/-/media/files/documents/datasheets/mlx92211-datasheet-melexis.pdf;Latch;;;;3;2.7 ;24;-40 to 150;TSOT-3L;Bx;;;;;;;
 3-wire;Production;MLX92212LSE-AAA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92212-datasheet-melexis.pdf;Latch;2 ;-2;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ABA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92212-datasheet-melexis.pdf;Unipolar switch;12 ;10.5;0;2.1;2.5 ;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
 3-wire;Production;MLX92212LSE-ACA-000;https://media.melexis.com/-/media/files/documents/datasheets/mlx92212-datasheet-melexis.pdf;Unipolar switch;10.1;8.3;-2000;2.1;2.5;5.5;-40 to 150;TSOT-3L;Bz;✔;Open Drain;S;Direct;;;https://melexis.com/MLX92212
